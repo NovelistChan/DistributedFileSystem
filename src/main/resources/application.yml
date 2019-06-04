@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8080
 
 eureka:
   instance:
@@ -13,3 +13,7 @@ eureka:
 spring:
   application:
     name: FileSystem-Service
+
+block:
+  size: 10240
+  transcript: 2

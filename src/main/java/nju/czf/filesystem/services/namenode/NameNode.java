@@ -1,4 +1,4 @@
-package nju.czf.filesystem.namenode;
+package nju.czf.filesystem.services.namenode;
 
 /**
  * NameNode节点定义

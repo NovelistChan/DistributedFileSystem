@@ -1,4 +1,4 @@
-package nju.czf.filesystem.namenode;
+package nju.czf.filesystem.services.namenode;
 
 /**
  * 上传、分块、下载

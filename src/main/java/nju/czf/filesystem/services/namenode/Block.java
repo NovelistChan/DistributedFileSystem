@@ -1,4 +1,4 @@
-package nju.czf.filesystem.block;
+package nju.czf.filesystem.services.namenode;
 
 import javax.persistence.Entity;
 

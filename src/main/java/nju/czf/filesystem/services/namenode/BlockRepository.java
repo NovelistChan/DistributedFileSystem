@@ -1,6 +1,5 @@
-package nju.czf.filesystem.block;
+package nju.czf.filesystem.services.namenode;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Repository;
 
 /**
